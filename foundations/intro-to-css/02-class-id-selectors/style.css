@@ -1,21 +1,20 @@
 
 
-p {
-    background-color: rgb(220, 30, 130);
+.odd {
+    background-color: rgb(255, 167, 167);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+.adjust-font-size {
+    font-size: 24px;
+}
+
 #id1 {
-    color: blue; 
+    color: rgb(0,0,255); 
     font-size: 36px;
 }
 
-.cooler {
-    font-size: 24px;
-}
-
 #id2 {
-    background-color: rgb(140, 200, 40);
-    font-size: 24px;
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
